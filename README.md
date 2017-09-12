@@ -78,4 +78,4 @@
 |  Language   |           java, Javascript, php          |
 |     VCS     |               git(Github), svn           |
 |     OS      |                Windows, mac              |
-|   Editor    |Eclipse, IntelliJ(phpstorm,android studio |
+|   Editor    |Eclipse, IntelliJ(phpstorm,android studio)|
