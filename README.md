@@ -8,7 +8,6 @@
 ## Android Developer 
 
 [![e-mail](https://img.shields.io/badge/e--mail-skwntnftkgk@gmail.com-orange.svg)](mailto:skwntnftkgk@gmail.com)
-![phone](https://img.shields.io/badge/phone-+82--10--4425--8447-brightgreen.svg)
 
 ## Experience
 
