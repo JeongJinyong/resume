@@ -52,7 +52,7 @@
 
 - MSTUV (mLab) `진행중`
   - 동영상 플랫폼으로 youtube,youku 등 여러 플랫폼에서 동영상을 가져와 동영상을 보며 태그를 남겨 소통을 합니다.
-  - Gilde, retrofit, google/facebook 공유 및 로그인 사용
+  - Gilde, retrofit, google/facebook 공유 및 로그인, fabric, firebase authentication 사용
  
 - 폐소화기 관리 어플리케이션 (mLab) `진행중`
   - 소화기의 폐기 및 수거를 관리합니다.
@@ -63,4 +63,19 @@
   - 기아 Smart Q
   - 여수엑스포 어플리케이션 기술지원
  
-### 개인인데 무슨 영단어를써야 있어보일까...
+### Personal
+
+- [CoupleLink](https://github.com/JeongJinyong/CoupleLink) `진행중`
+  - 스펙업 및 개발자 필요에 의해서 만드는 커플용 어플리케이션
+  - firebase database, firebase authentication, fcm, Gilde 사용 예정
+  
+- 이무코 및 진동점자어플은 팀프로젝트로 기획단계 `진행중`
+
+## Technical Skills
+
+|    Skill    |                                          |
+| :---------: | :--------------------------------------: |
+|  Language   |           java, Javascript, php          |
+|     VCS     |               git(Github), svn           |
+|     OS      |                Windows, mac              |
+|   Editor    |Eclipse, IntelliJ(phpstorm,android studio |
