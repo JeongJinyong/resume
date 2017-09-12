@@ -56,7 +56,7 @@
 
 - MSTUV (mLab) `진행중`
   - 동영상 플랫폼으로 youtube,youku 등 여러 플랫폼에서 동영상을 가져와 동영상을 보며 태그를 남겨 소통을 합니다.
-  - Gilde, retrofit, google/facebook 공유 및 로그인, fabric, firebase authentication 사용
+  - Gilde, retrofit, google/facebook 공유 및 로그인, fabric, firebase authentication,databinding 사용
  
 - 폐소화기 관리 어플리케이션 (mLab) `진행중`
   - 소화기의 폐기 및 수거를 관리합니다.
