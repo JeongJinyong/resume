@@ -58,8 +58,8 @@
   - 소화기의 폐기 및 수거를 관리합니다.
   - zxing, retrofit 사용
 
-- 그외 
-  - 이혼 판결문 미리보기 (Qnsolv)
+- 그외
+  - 이혼 판결문 미리보기 (Qnsolv)
   - 기아 Smart Q (Qnsolv)
   - 여수엑스포 어플리케이션 기술지원 (Qnsolv)
  
