@@ -68,9 +68,10 @@
  
 ### Personal
 
-- [CoupleLink](https://github.com/JeongJinyong/CoupleLink) `진행중`
+- [CoupleLink](https://github.com/JeongJinyong/CoupleLink) `준비중`
   - 스펙업 및 개발자 필요에 의해서 만드는 커플용 어플리케이션
   - firebase database, firebase authentication, fcm, Gilde 사용
+ 
   
 - 이무코 팀프로젝트로 기획단계 `진행중`
 
