@@ -18,13 +18,14 @@
   - android dev로 입사하였으나 회사 내부 사정으로 php 유지보수를 겸함
   - 자사 솔루션 어플리케이션 및 웹페이지 유지보수 진행
   - java 외 언어를 실전에서 사용해본것은 처음으로 php와 javascript를 처음 사용하고 배움
-- mLab 개발팀 android dev. 17.6 ~ 현재
+- mLab 개발팀 android dev. 17.6 ~ 18.5
   - 자사 솔루션 어플리케이션 외 1개 프로젝트 진행중
-
+- 싸이월드 개발팀 android dev. 18.5 ~ 현재
+  - 싸이월드 어플리케이션 개발 및 유지보수 
+  
 ## Educated
 
 1. 광주금파공업고등학교 졸업
-2. 한국방송통신대학교 재학중(1학년)
 
 ## Project
 
@@ -54,13 +55,16 @@
   - 반응형 웹페이지를 보다 쉽게 제작할 수 있게 제공 합니다.
   - php, javascript, Volley 사용
 
-- MSTUV (mLab) `진행중`
+- MSTUV (mLab) 
   - 동영상 플랫폼으로 youtube,youku 등 여러 플랫폼에서 동영상을 가져와 동영상을 보며 태그를 남겨 소통을 합니다.
   - Gilde, retrofit, google/facebook 공유 및 로그인, fabric, firebase authentication,databinding 사용
  
-- 폐소화기 관리 어플리케이션 (mLab) `진행중`
+- 폐소화기 관리 어플리케이션 (mLab) 
   - 소화기의 폐기 및 수거를 관리합니다.
   - zxing, retrofit 사용
+  
+- 싸이월드 (싸이월드) `진행중`
+  - Kotlin, RxJava, Gilde, retrofit, fabric, firebase 등등 사용
 
 - 그외
   - 이혼 판결문 미리보기 (Qnsolv)
@@ -71,9 +75,12 @@
 - [CoupleLink](https://github.com/JeongJinyong/CoupleLink) `준비중`
   - 스펙업 및 개발자 필요에 의해서 만드는 커플용 어플리케이션
   - firebase database, firebase authentication, fcm, Gilde 사용
- 
-  
-- 이무코 팀프로젝트로 기획단계 `진행중`
+- [다독임](https://play.google.com/store/apps/details?id=apiteam.allpoisonim)
+  - 스펙업 및 팀프로젝트 진행
+  - Kotlin, RxJava, Gilde, retrofit, Picasso 사용
+- 샐러리(가제) `진행중`
+  - 스펙업 및 팀프로젝트 진행
+  - Java, retrofit, Glide, firebase 사용 예정
 
 ## Technical Skills
 
