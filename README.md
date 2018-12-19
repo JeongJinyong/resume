@@ -86,7 +86,7 @@
 
 |    Skill    |                                          |
 | :---------: | :--------------------------------------: |
-|  Language   |           java, Javascript, php          |
+|  Language   |       java, Javascript, php, Kotlin      |
 |     VCS     |               git(Github), svn           |
 |     OS      |                Windows, mac              |
 |   Editor    |Eclipse, IntelliJ(phpstorm,android studio)|
